@@ -63,10 +63,10 @@ Rather than forcing unsupported configurations, I explored alternatives, compare
 ## Screenshots Included
 
 * Cursor Marketplace exploration
-* <img width="1918" height="500" alt="claude in cursor" src="https://github.com/user-attachments/assets/dc8259c5-d63a-4bc8-b3a1-4d962f18c09a" />
-*<img width="1913" height="391" alt="codex in cursor" src="https://github.com/user-attachments/assets/6bc773e4-7a54-4c64-8b57-b0b58a0ee99d" />
+  <img width="1918" height="500" alt="claude in cursor" src="https://github.com/user-attachments/assets/dc8259c5-d63a-4bc8-b3a1-4d962f18c09a" />
+  <img width="1913" height="391" alt="codex in cursor" src="https://github.com/user-attachments/assets/6bc773e4-7a54-4c64-8b57-b0b58a0ee99d" />
 * VS Code with Codex integration active
-* <img width="1918" height="1070" alt="claude and codex" src="https://github.com/user-attachments/assets/809c1d5f-ee0a-48c2-b38e-9dc8f09f913d" />
+  <img width="1918" height="1070" alt="claude and codex" src="https://github.com/user-attachments/assets/809c1d5f-ee0a-48c2-b38e-9dc8f09f913d" />
 
 
 ---
