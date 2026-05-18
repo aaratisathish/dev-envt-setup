@@ -1,7 +1,5 @@
-# dev-envt-setup
-My developer environment setup and portfolio project
 # My Developer Environment Setup
-
+My developer environment setup and portfolio project
 ## About Me
 
 Hi, I'm Aarati Sathish.
